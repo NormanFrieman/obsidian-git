@@ -5,7 +5,7 @@ Scripts to automate the process of saving changes made in obsidian to a git repo
 ```pip install -r requirements.txt```
 
 # Change .env
-REPO=<PATH_GIT_REPO>
+```REPO=<PATH_GIT_REPO>```
 
 # Run
 To send changes to git:
